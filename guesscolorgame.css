@@ -1,0 +1,64 @@
+body
+{
+	background-color: black;
+}
+
+.square
+{
+	width: 30%;
+	background: black;
+	margin: 1.66%;
+	float: left;
+	padding-bottom: 30%
+}
+
+#container
+{
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+h1
+{
+	font-size: 70px;
+	text-align: center;
+	color: white;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+h2
+{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+
+h3
+{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+
+h4
+{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+
+button
+{
+	background-color: orange;
+	border-radius: 20px;
+	width: 100px;
+	height: 80px;
+}
+
+.wrapper
+{
+	padding-left: 42%;
+	padding-right: 40%;
+}
+
+
